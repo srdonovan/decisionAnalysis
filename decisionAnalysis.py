@@ -40,3 +40,6 @@ class Decision:
 			self.price = price
 
 		self.notes = notes
+
+oracle = Stock("orcl","Oracle")
+print(oracle)
